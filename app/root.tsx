@@ -9,7 +9,7 @@ import {
 import type { MetaFunction } from "remix";
 
 export const meta: MetaFunction = () => {
-  return { title: "To-do App" };
+  return { title: "Task-List App" };
 };
 
 export default function App() {
