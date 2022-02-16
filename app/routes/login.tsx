@@ -67,6 +67,9 @@ export default function Login() {
           <li>
             <Link to="/">Home</Link>
           </li>
+          <li>
+          <Link to="/tasks">Tasks</Link>
+          </li>
         </ul>
       </div>
     </div>
